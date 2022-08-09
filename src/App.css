@@ -1,0 +1,8 @@
+.CardWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  background-color: #d3d3d3;
+  justify-content: center;
+  padding-top: 3%;
+}
